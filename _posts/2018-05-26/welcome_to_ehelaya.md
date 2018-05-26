@@ -1,1 +1,4 @@
-# Welcome to Ehelaya Blog
+---
+title: "Welcome to my blog"
+date: 2018-05-26
+---
